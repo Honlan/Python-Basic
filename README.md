@@ -4,6 +4,10 @@ Python基础入门课程，使用Python3.6自带的IDLE编程
 
 介绍Python基础语法，包括变量、类型、条件、循环、列表、字符串、字典、函数等内容
 
+## 课程链接
+
+网易云课堂：[http://study.163.com/course/courseMain.htm?courseId=1005461017](http://study.163.com/course/courseMain.htm?courseId=1005461017)
+
 ## 文件说明
 
 - `ppt`：课程课件，共14个pdf；
